@@ -1216,15 +1216,6 @@ section.lazy-placeholder:after {
   color: #767676;
   text-align: left;
 }
-.cid-sbU0Xw5CX2 .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-sbU0Xw5CX2 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
 .cid-sbU0Xw5CX2 .card-img {
   position: absolute;
   top: 0;
@@ -1287,15 +1278,6 @@ section.lazy-placeholder:after {
 .cid-sbTZ1cfqic p {
   color: #767676;
   text-align: left;
-}
-.cid-sbTZ1cfqic .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-sbTZ1cfqic .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
 }
 .cid-sbTZ1cfqic .card-img {
   position: absolute;
