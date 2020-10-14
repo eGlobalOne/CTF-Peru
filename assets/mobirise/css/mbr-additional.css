@@ -1139,7 +1139,7 @@ section.lazy-placeholder:after {
   margin: 0 0 .5rem 0;
 }
 .cid-s4Dd1GZZfN {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #005db4;
 }
@@ -1149,26 +1149,89 @@ section.lazy-placeholder:after {
 .cid-s4Dd1GZZfN H1 {
   color: #ffffff;
 }
-.cid-sbUcDDgkLx {
+.cid-sdoNSuoTRo {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-sbUcDDgkLx .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-sdoNSuoTRo .card {
+  align-self: stretch;
 }
-.cid-sbUcDDgkLx .mbr-figure img {
+.cid-sdoNSuoTRo .card-box {
+  padding: 2rem;
+}
+.cid-sdoNSuoTRo h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sdoNSuoTRo p {
+  text-align: left;
+}
+.cid-sdoNSuoTRo .mbr-text {
+  color: #767676;
+}
+.cid-sdoNSuoTRo .card-wrapper {
   height: 100%;
-  margin: 0 auto;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0s;
 }
-@media (max-width: 991px) {
-  .cid-sbUcDDgkLx .mbr-figure img {
-    width: 100% !important;
+.cid-sdoNSuoTRo .card-wrapper:hover {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0s;
+}
+@media (min-width: 992px) {
+  .cid-sdoNSuoTRo .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
   }
+}
+.cid-sdoNSuoTRo .card-title {
+  text-align: center;
+}
+.cid-sdoOVSq8FJ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-sdoOVSq8FJ .card {
+  align-self: stretch;
+}
+.cid-sdoOVSq8FJ .card-box {
+  padding: 2rem;
+}
+.cid-sdoOVSq8FJ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sdoOVSq8FJ p {
+  text-align: left;
+}
+.cid-sdoOVSq8FJ .mbr-text {
+  color: #767676;
+}
+.cid-sdoOVSq8FJ .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0s;
+}
+.cid-sdoOVSq8FJ .card-wrapper:hover {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0s;
+}
+@media (min-width: 992px) {
+  .cid-sdoOVSq8FJ .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-sdoOVSq8FJ .card-title {
+  text-align: center;
 }
 .cid-saSLxHBmtI {
   padding-top: 0px;
