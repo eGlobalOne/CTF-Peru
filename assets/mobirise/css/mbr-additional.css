@@ -1038,21 +1038,71 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sbDCcHXUai {
+  padding-top: 135px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/fachada4-modificada-v3-1376x999.jpg");
 }
 .cid-sbDCcHXUai .mbr-text,
 .cid-sbDCcHXUai .mbr-section-btn {
   text-align: center;
 }
-.cid-s27fU8MYNR {
+.cid-sdrkl4qulK {
   padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-s27fU8MYNR P {
-  color: #767676;
+.cid-sdrkl4qulK .mbr-text,
+.cid-sdrkl4qulK .typed-text,
+.cid-sdrkl4qulK .mbr-section-text {
+  letter-spacing: 0.03rem;
 }
-.cid-s27fU8MYNR H1 {
+.cid-sdrkl4qulK .btn {
+  margin-left: 4px !important;
+}
+.cid-sdrkl4qulK .animated-element {
+  color: #005cb9;
+}
+.cid-sdrkl4qulK .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #005cb9;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-sdrkl4qulK .mbr-section-subtitle {
   color: #005db4;
 }
 .cid-s7VUmtmRwS {
@@ -1158,7 +1208,7 @@ section.lazy-placeholder:after {
   align-self: stretch;
 }
 .cid-sdoNSuoTRo .card-box {
-  padding: 2rem;
+  padding: 0rem;
 }
 .cid-sdoNSuoTRo h4 {
   font-weight: 500;
